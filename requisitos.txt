@@ -3,3 +3,4 @@
 
 
 RF10 - O sistema deve aceitar PIX.
+RF11 - O sistema deve calcular frete via CEP.
